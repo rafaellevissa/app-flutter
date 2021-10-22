@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010442317918",
+    "project_id": "flutter-be824",
+    "storage_bucket": "flutter-be824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010442317918:android:ddbe4988d48393c477c4cf",
+        "android_client_info": {
+          "package_name": "com.example.desafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010442317918-tlak5rslddh102i52d2tg22emhtphrno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-3P7HZzYg2tam3_C4qrFsogfKyEkLaME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010442317918-tlak5rslddh102i52d2tg22emhtphrno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
